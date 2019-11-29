@@ -1,11 +1,4 @@
 Chave100+
-
-2019-11-22 ALINE/RAFAELA COM regiane CERTO
-2019-11-22
-2019-11-23 MARISA BUFFET DE FORA
-2019-11-23
-2019-11-24
-2019-11-24 DOMINGO DENIS MARTOS BUFFET DE FORA
 2019-11-30 IARA
 2019-11-30
 2019-12-01
@@ -16,7 +9,7 @@ Chave100+
 2019-12-07
 2019-12-07 master day a confirmado
 2019-12-12
-2019-12-12 reserva via varejo
+2019-12-12 reserva Muralha segurança
 2019-12-13
 2019-12-13 mirian braz (talves com regiane)
 2019-12-14
